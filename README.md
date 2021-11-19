@@ -21,8 +21,13 @@ Before you start, you need to install and configure the tools and services:
 * [Zenvia](https://app.zenvia.com/) account
 * [AudD](https://audd.io/) account
 * [ngrok](https://dashboard.ngrok.com/signup) account
+* [ngrok documentation](https://ngrok.com/docs#config) documentation
 
+## Tutorial
 
+Já escutou uma música e queria muito saber qual o nome dela? Neste artigo, iremos criar um WhatsApp Bot Node.js que descobre exatamente isso para o usuário. Venha descobrir como! 
+
+* [WhatsApp Bot Node.js](https://www.zenvia.com/blog/developers/whatsapp-bot-nodejs/)
 
 ## Getting started
 
